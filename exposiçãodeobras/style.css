@@ -1,0 +1,20 @@
+/*
+    Theme Name: Exposição de Obras
+    Author: Matheus Montealto
+    Author URI: https://github.com/MatheusMontealto
+    Description: Exposição de Obras
+    Version: 1.0
+ */
+
+.footer{
+    height: 60px;
+    background-color: #ddd;
+    color: white;
+    position:absolute;
+    bottom:0;
+    width:100%
+}
+
+.footer .container {
+    padding-top: 20px;
+}
